@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ContactManager.Models.Task>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type="text/css">
+    .regular {
+        background-color:#FFFFFF;
+    }
+    .done {
+        
+        background-color: #B9D1F0;
+    }
+    
+
+</style>
+<h2>Tasks</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsComplete)
+        </th>
+        
+        <th></th>
+    </tr>
+ 
+    @{ var data = from m in Model select new { m.IsComplete, m.TaskID, m.Title, m.Description, ApplyClass = (m.IsComplete ? "done" : "regular") }; }   
+
+@foreach (var item in data) {
+                                                                        
+    <tr class="@item.ApplyClass" >
+    
+        <td >
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td >
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsComplete)
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.TaskID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.TaskID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.TaskID })
+        </td>
+    </tr>
+}
+
+</table>

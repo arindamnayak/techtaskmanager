@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ContactManagerContext-Web.config Connection String" description="ContactManagerContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\v11.0; Initial Catalog=ContactManagerContext-20140815153906; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|ContactManagerContext-20140815153906.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\AzureDemos\\TaskManager\\ContactManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContactManagerContext']/@connectionString" />
+  </parameter>
+</parameters>

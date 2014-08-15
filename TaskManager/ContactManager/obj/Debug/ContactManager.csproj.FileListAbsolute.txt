@@ -1,0 +1,59 @@
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\ContactManager.dll.config
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\ContactManager.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\ContactManager.pdb
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\Antlr3.Runtime.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\Newtonsoft.Json.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Helpers.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Mvc.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Optimization.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Razor.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Deployment.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Razor.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\WebGrease.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Helpers.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Mvc.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Optimization.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.Razor.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Deployment.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Razor.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\Antlr3.Runtime.pdb
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\bin\Newtonsoft.Json.xml
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\obj\Debug\ContactManager.dll
+c:\users\arindamn\documents\visual studio 2013\Projects\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+D:\AzureDemos\ContactManager\ContactManager\bin\ContactManager.dll.config
+D:\AzureDemos\ContactManager\ContactManager\bin\ContactManager.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\ContactManager.pdb
+D:\AzureDemos\ContactManager\ContactManager\bin\Antlr3.Runtime.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\EntityFramework.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\EntityFramework.SqlServer.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\Newtonsoft.Json.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Helpers.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Mvc.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Optimization.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Razor.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.WebPages.Deployment.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.WebPages.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.WebPages.Razor.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\WebGrease.dll
+D:\AzureDemos\ContactManager\ContactManager\bin\EntityFramework.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\EntityFramework.SqlServer.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Helpers.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Mvc.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Optimization.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.Razor.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.WebPages.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.WebPages.Deployment.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\System.Web.WebPages.Razor.xml
+D:\AzureDemos\ContactManager\ContactManager\bin\Antlr3.Runtime.pdb
+D:\AzureDemos\ContactManager\ContactManager\bin\Newtonsoft.Json.xml
+D:\AzureDemos\ContactManager\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+D:\AzureDemos\ContactManager\ContactManager\obj\Debug\ContactManager.Migrations.Initial.resources
+D:\AzureDemos\ContactManager\ContactManager\obj\Debug\ContactManager.Migrations.ContactManagerModelsTask.resources
+D:\AzureDemos\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.Cache
+D:\AzureDemos\ContactManager\ContactManager\obj\Debug\ContactManager.dll
+D:\AzureDemos\ContactManager\ContactManager\obj\Debug\ContactManager.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="techtaskmanager" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\AzureDemos\\TaskManager\\ContactManager\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\AzureDemos\\TaskManager\\ContactManager\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ContactManagerContext-Web.config Connection String" description="" value="Data Source=tcp:jqq8ie6huy.database.windows.net,1433;Initial Catalog=TechtasksDB;User Id=arindam@jqq8ie6huy;Password=Confirm!1" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\AzureDemos\\TaskManager\\ContactManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContactManagerContext']/@connectionString" />
+  </parameter>
+</parameters>

@@ -25,7 +25,6 @@ D:\AzureDemos\TaskManager\ContactManager\bin\System.Web.WebPages.Deployment.xml
 D:\AzureDemos\TaskManager\ContactManager\bin\System.Web.WebPages.Razor.xml
 D:\AzureDemos\TaskManager\ContactManager\bin\Antlr3.Runtime.pdb
 D:\AzureDemos\TaskManager\ContactManager\bin\Newtonsoft.Json.xml
-D:\AzureDemos\TaskManager\ContactManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
 D:\AzureDemos\TaskManager\ContactManager\obj\Debug\ContactManager.Migrations.Initial.resources
 D:\AzureDemos\TaskManager\ContactManager\obj\Debug\ContactManager.Migrations.ContactManagerModelsTask.resources
 D:\AzureDemos\TaskManager\ContactManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache

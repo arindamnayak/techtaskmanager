@@ -30,3 +30,4 @@ D:\AzureDemos\TaskManager\ContactManager\obj\Debug\ContactManager.Migrations.Con
 D:\AzureDemos\TaskManager\ContactManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
 D:\AzureDemos\TaskManager\ContactManager\obj\Debug\ContactManager.dll
 D:\AzureDemos\TaskManager\ContactManager\obj\Debug\ContactManager.pdb
+D:\AzureDemos\TaskManager\ContactManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache

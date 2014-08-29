@@ -10,7 +10,7 @@
     <WebStackScaffolding_DbContextTypeFullName>ContactManager.Models.ContactManagerContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
-    <NameOfLastUsedPublishProfile>techtaskmanager</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>techdemos1 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
